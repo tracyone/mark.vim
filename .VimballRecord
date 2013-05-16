@@ -1,0 +1,1 @@
+mark-2.7.2.vmb: call delete('/home/tracyone/.vim/bundle/vundle/autoload/mark.vim')|call delete('/home/tracyone/.vim/bundle/vundle/autoload/mark/palettes.vim')|call delete('/home/tracyone/.vim/bundle/vundle/plugin/mark.vim')|call delete('/home/tracyone/.vim/bundle/vundle/doc/mark.txt')
