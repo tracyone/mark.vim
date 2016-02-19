@@ -1,4 +1,4 @@
-mirror of [](http://www.vim.org/scripts/script.php?script_id=2666)
+mirror of [script_id=2666](http://www.vim.org/scripts/script.php?script_id=2666)
 
 # DESCRIPTION
 
@@ -35,7 +35,7 @@ plugin offers the following advantages over the original:
 - MultipleSearch (vimscript #479) can highlight in a single window and in all
   buffers, but still relies on the :syntax highlighting method, which is
   slower and less reliable.
-- [](http://vim.wikia.com/wiki/Highlight_multiple_words) offers control over the
+- [Highlight_multiple_words](http://vim.wikia.com/wiki/Highlight_multiple_words) offers control over the
   color used by mapping the 1-9 keys on the numeric keypad, persistence, and
   highlights only a single window.
 - highlight.vim (vimscript #1599) highlights lines or patterns of interest in
@@ -43,7 +43,7 @@ plugin offers the following advantages over the original:
 - quickhl.vim (vimscript #3692) can also list the matches with colors and in
   addition offers on-the-fly highlighting of the current word (like many IDEs
   do).
-- Highlight [](http://www.drchip.org/astronaut/vim/index.html#HIGHLIGHT) has
+- Highlight [HIGHLIGHT](http://www.drchip.org/astronaut/vim/index.html#HIGHLIGHT) has
   commands and mappings for highlighting and searching, uses matchadd(), but
   limits the scope of highlightings to the current window.
 - TempKeyword (vimscript #4636) is a simple plugin that can matchadd() the
