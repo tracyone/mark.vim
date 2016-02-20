@@ -1,4 +1,6 @@
-mirror of [script_id=2666](http://www.vim.org/scripts/script.php?script_id=2666)
+Mirror of [script_id=2666](http://www.vim.org/scripts/script.php?script_id=2666)
+
+Latest version is 2.8.5, updated at 29-Oct-2014 by Ingo Karkat
 
 # DESCRIPTION
 
